@@ -22,6 +22,7 @@ What is pyGIMLi suited for?
 - inversion with flexible controls on a-priori information and regularization
 - combination of different methods in constrained, joint and fully-coupled inversions
 - teaching applied geophysics (e.g. in combination with [Jupyter notebooks])
+- linking to geological modeling with GemPy
 
 What is pyGIMLi **NOT** suited for?
 
